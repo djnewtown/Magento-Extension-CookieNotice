@@ -9,9 +9,9 @@
    <description>The Information Commissioner&apos;s Office stated that &apos;implied consent&apos; is sufficient to comply with the EU Cookie Law. Now, you do not have to use other Magento Cookie Law extensions that make you wait for your visitors to agree to be tracked before you can get any Analytics data from them. Use this Cookie Law extension to show your visitors that by using your website, they permit you to set cookies in their browser.</description>
    <license>Open Software License (OSL)</license>
    <license_uri>http://opensource.org/licenses/osl-3.0.php</license_uri>
-   <version>0.2.1</version>
+   <version>0.2.2</version>
    <stability>stable</stability>
-   <notes>*Tidu up</notes>
+   <notes>* Removed reporting of admin url and email * The module reports the module and Magento version for me to know about compatibility</notes>
    <authors>
       <name>
          <name>Kathir Vel</name>
