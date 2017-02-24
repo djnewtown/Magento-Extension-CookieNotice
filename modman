@@ -1,0 +1,7 @@
+src/app/code/community/Optimiseweb/CookieNotice app/code/community/Optimiseweb/CookieNotice
+src/app/design/adminhtml/default/default/template/optimiseweb/cookienotice app/design/adminhtml/default/default/template/optimiseweb/cookienotice
+src/app/design/frontend/base/default/layout/optimiseweb_cookienotice.xml app/design/frontend/base/default/layout/optimiseweb_cookienotice.xml
+src/app/design/frontend/base/default/template/optimiseweb/cookienotice app/design/frontend/base/default/template/optimiseweb/cookienotice
+src/app/etc/modules/Optimiseweb_CookieNotice.xml app/etc/modules/Optimiseweb_CookieNotice.xml
+src/app/locale/en_US/Optimiseweb_CookieNotice.csv app/locale/en_US/Optimiseweb_CookieNotice.csv
+src/skin/frontend/base/default/css/cookienotice.css skin/frontend/base/default/css/cookienotice.css

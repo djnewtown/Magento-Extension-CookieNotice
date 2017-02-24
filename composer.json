@@ -1,0 +1,17 @@
+{
+  "name": "newtown/magento-optimiseweb-cookie-notice",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "",
+  "homepage": "https://www.newtown.at",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  },
+  "authors": [
+    {
+      "name": "Ingo Fabbri",
+      "email": "if@newtown.at",
+      "role": "Maintainer"
+    }
+  ]
+}
